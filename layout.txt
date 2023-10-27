@@ -1,7 +1,7 @@
 LOCATION NOTIFIER
 
 we pick coordinates from google maps
-
+--------Geocoding API use karenge------------
 match it to defined range of coordinates of canteen every 5 min
 
 if yes the continue with sending the msg
