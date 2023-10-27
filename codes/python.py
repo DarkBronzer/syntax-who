@@ -1,7 +1,7 @@
 '''
-get coordinates using api
-store coordinates
-match with canteen coordinaes
-send notification
-else run after 5 mins
+        get coordinates using api
+        store coordinates
+EASY match with canteen coordinaes
+        send notification
+EASY else run after 5 mins
 '''
